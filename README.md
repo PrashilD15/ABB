@@ -4,6 +4,8 @@ Windows/local browser application by Prashil Dalvi and Team Trishul, Amruthvahin
 
 ## Start
 
+For a new computer with the published drawings and test history, follow [project-backup/README.md](project-backup/README.md). API credentials remain local and must be configured separately.
+
 Requires Python 3.11+ and Node.js 20.19+.
 
 ```powershell
